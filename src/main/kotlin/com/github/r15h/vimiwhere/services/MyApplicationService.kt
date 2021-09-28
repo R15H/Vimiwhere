@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.r15h.vimiwhere.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.r15h.vimiwhere.MyBundle
 
 class MyApplicationService {
 
